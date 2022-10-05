@@ -1,0 +1,20 @@
+[
+{
+    "precio": 15,
+    "id": 1,
+    "title": "Fotografía para principiantes",
+    "thumbnailUrl": "https://picsum.photos/id/1031/5446/3063.jpg"
+},
+{
+    "precio": 15,
+    "id": 2,
+    "title": "Curso de composición fotográfica",
+    "thumbnailUrl": "https://picsum.photos/id/1033/2048/1365.jpg"
+},
+{
+    "precio": 15,
+    "id": 3,
+    "title": "Curso de Photoshop",
+    "thumbnailUrl": "https://picsum.photos/id/0/5616/3744.jpg"
+}
+]
